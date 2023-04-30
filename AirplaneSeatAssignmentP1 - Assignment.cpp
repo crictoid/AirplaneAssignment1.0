@@ -1,4 +1,4 @@
-// Mark Bulmer - C++ Project 1 - Airplane Seat Assignment
+// Mark Bulmer - CSC 134 Project 1 - 9-26-2021 Airplane Seat Assignment
 //
 //***       ***         ***         ***
 //      I realize that this is a poor attempt and does not function as intended. 
